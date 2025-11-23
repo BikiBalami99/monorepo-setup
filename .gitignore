@@ -38,6 +38,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# turbo
+.turbo
+**/.turbo
+
 # amplify
 .amplify
 amplify_outputs*
